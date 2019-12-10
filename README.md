@@ -214,3 +214,4 @@ dependencies {
     ...
 }
 ```
+NOTA: Para las nuevas versiones, en lugar de incluir la dependencia anterior, se deberá incluir la dependencia indicada en _https://developer.android.com/jetpack/androidx/releases/recyclerview_.
